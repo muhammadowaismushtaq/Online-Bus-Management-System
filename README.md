@@ -21,4 +21,4 @@ http://obms.atwebpages.com/
 > To learn more about the project, click [HERE](https://github.com/muhammadowaismushtaq/Online-Bus-Management-System/blob/f9ce69c9c699ca724e47d8303a25cc61abfdac8d/Project%20Documents/K181177(8E)_WP_Project_Report.pdf).
 
 ## Author
-[Muhammad Owais Mushtaq](https://github.com/muhammadowaismushtaq)
+[Muhammad Owais Mushtaq](https://www.linkedin.com/in/muhammadowaismushtaq)
